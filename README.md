@@ -1,1 +1,1 @@
-Drag and drop the admin application, then it'll work.
+Drag and drop the admin application to the .bat file, then it'll work.
